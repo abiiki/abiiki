@@ -1,4 +1,8 @@
-![Abiiki](github-header-banner.png)
+<!-- ![Abiiki](github-header-banner.png) -->
+
+![gif](elias-gif.gif)
+
+# Hi There! I'm Rizqi
 
 - 🧑‍🎓 currently studying at **STT Mandala**
 - 🌱 learning **Web Development** and mastering **SQLQueries**
@@ -20,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DEAw84NJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soon) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@soon)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DEAw84NJ)
 
 ### 💻 Tech Stack:
 
