@@ -1,6 +1,6 @@
 <!-- ![Abiiki](github-header-banner.png) -->
 <!-- ![gif](elias-gif.gif) -->
-<img src="C:\Users\rizqi\OneDrive\Desktop\abiiki\elias-gif.gif" width="100%"/>
+<img src="elias-gif.gif" width="100%"/>
 
 # Hi There! I'm Rizqi
 
